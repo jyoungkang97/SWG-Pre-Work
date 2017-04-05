@@ -1,0 +1,28 @@
+body {
+  font-family: "Courier New", monospace;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+header h1 {
+  text-align: center;
+  padding: 10px;
+
+    }
+footer {
+  background: #FFFFFF;
+  border-top: 2px solid #000000;
+  font-size: .95rem;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  bottom: 0px;
+}
+table {
+text-align: center;
+}
+
+th, td {
+padding: 2px;
+}
+
