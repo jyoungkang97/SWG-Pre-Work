@@ -1,0 +1,21 @@
+body {
+  padding: 30px;
+  text-align: center;
+}
+
+header {
+  line-height: 0.5;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border: 2px solid #000000;
+}
+
+th, td {
+  padding: 10px;
+}
